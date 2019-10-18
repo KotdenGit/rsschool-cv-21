@@ -3,7 +3,7 @@
 1. Voschenchuk Yuri Nikolaevich
 2. +375256140194 E-mail: kotde09@gmail.com
 3. I always had a dream of being a programmer, I knew that this requires a lot of skills. And for me to be a programmer is the desire and passion to learn new information, to be in search of adventures, to feel the need for new discoveries. This is a fresh sphere where you can be a pioneer like Christopher Columbus or Vasco da Gama. Finding new ways to make life easier give people new opportunities. For everything else, studying has always been easy for me, at a university college or school.
-4. Me skills: HTML, CSS, JS, SQL and C#(basic knowledge); frameworks such as: SASS, bootstrap, Vue; version control - Git.
+4. My skills: HTML, CSS, JS, SQL and C#(basic knowledge); frameworks such as: SASS, bootstrap, Vue; version control - Git.
 5. Input battleship:
 
    function parseGuess(guess) {
